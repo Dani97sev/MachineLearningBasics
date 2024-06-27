@@ -16,7 +16,7 @@ Recursos y ejemplos en aprendizaje automático. Incluye tutoriales sobre modelos
 
 ## Introducción
 
-El proyecto "Curso de Machine Learning" contiene una serie de scripts en Python diseñados para ilustrar y enseñar diferentes algoritmos y técnicas de aprendizaje automático. Cada archivo aborda un aspecto específico del Machine Learning, desde modelos de regresión y clasificación hasta sistemas de recomendación y clustering. A continuación se presenta una descripción detallada de cada archivo, sus funciones principales y su propósito dentro del curso.
+El proyecto "Machine Learning Basics" contiene una serie de scripts en Python diseñados para ilustrar y enseñar diferentes algoritmos y técnicas de aprendizaje automático. Cada archivo aborda un aspecto específico del Machine Learning, desde modelos de regresión y clasificación hasta sistemas de recomendación y clustering. A continuación se presenta una descripción detallada de cada archivo, sus funciones principales y su propósito dentro del curso.
 
 ## Descripción de Archivos
 
